@@ -6,8 +6,6 @@ from sklearn.pipeline import Pipeline
 
 from sklearn.datasets import fetch_20newsgroups
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.model_selection import train_test_spli
-
 
 from sklearn.datasets import fetch_20newsgroups
 from sklearn.feature_extraction.text import CountVectorizer
